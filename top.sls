@@ -10,3 +10,4 @@ base:
     - rancher
     - samba
     - kubernetes
+    - ufw
