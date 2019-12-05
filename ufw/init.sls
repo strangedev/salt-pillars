@@ -4,5 +4,5 @@ ufw:
     - salt-master
     - docker-swarm
     - glusterfs
-  private_subnets:
+  trusted_subnets:
     - '10.0.2.0/24'
