@@ -4,3 +4,4 @@ glusterfs:
         - 192.168.137.100
       hostnames:
         - core
+        - core.swarm
