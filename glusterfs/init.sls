@@ -4,4 +4,4 @@ glusterfs:
       hostnames:
         - core
         - core.swarm
-  version: '3.8'
+  version: '3.1'
