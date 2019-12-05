@@ -2,7 +2,7 @@ docker:
 
   {% if grains['os'] == 'Ubuntu' or grains['os'] == 'Debian' %}
   package_name: docker-ce
-  version: '18.06.*'
+  version: '5:19.*'
   {% endif %}
 
   # prerequisites
