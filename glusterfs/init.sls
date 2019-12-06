@@ -8,4 +8,4 @@ glusterfs:
       hostnames:
         - compute-0
         - compute-0.swarm
-  version: '3.12'
+  version: '7'
