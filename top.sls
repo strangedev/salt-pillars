@@ -11,3 +11,4 @@ base:
     - samba
     - kubernetes
     - ufw
+    - glusterfs
